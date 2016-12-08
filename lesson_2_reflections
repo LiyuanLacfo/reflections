@@ -1,0 +1,5 @@
+Question1: 暂存区与工作目录和版本库有何不同？你认为它具有什么价值？
+
+Staging area contains something that is going to be committed. The repository contains the things that have already been commmitted and the working directory contains the original files including those that have been committed and those not.
+
+The staging area connects the working directory and the repository.
