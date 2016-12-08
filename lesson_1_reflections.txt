@@ -1,0 +1,40 @@
+Question1:How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+I think when we make a new version it is likely that we mistakenly changed something that is correct. 
+So if we can compare the difference between the two versions, on one hand it is easy to see what we have added, and on the other hand, we can find whether we have changed the correct things.
+
+
+Question2: How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+I think when we do the project step by step, we update frequently. But sometimes the update we have made could be a mistake, so we need to 
+go back to the old version to start again. Thus we need a version control system to help us go back. 
+
+
+Question3: What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+The pros: the programmers can decide when it is a good time to commit a change. The purpose for commiting is to go back to find something meaningful, 
+thus it is proper for programmers to make this decision.
+
+The cons: the programmers may forget to update the changes.
+
+
+Question4: Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+I think git is designed for the programmers. When you code, several files maybe highly related, so it is useful to update them together.
+But google docs are designed for general purposes.
+
+
+Question5: How can you use the commands git log and git diff to view the history of files?
+
+I can use git log to view the commit history and git diff to see the difference for the two commits
+
+
+Question6: 使用版本控制，如何让你更有信心进行有可能会造成破坏的更改？
+
+you can check the previous version to see whether there is a bug and then identify where the bug first appeared
+
+
+Question7:现在你已设置了工作空间，你想尝试使用 Git 来做些什么？
+
+I want to do some project then I'd like to use git to make some version controlgi 
+
